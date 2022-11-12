@@ -1,6 +1,4 @@
-# ingressHyd.github.io
-
-# Ingress_XFAC_Hyderabad
+# Ingress XFAC Hyderabad
 
 ## List of the Ingress Agents in the group
 
