@@ -24,3 +24,6 @@
 | ScarletFtErza    |   RES   | Hyderabad       |
 | xlSoumyajitlx    |   RES   | Hyderabad       |
 | AgentKV007       |   RES   | Hyderabad       |
+| DarkKnight2016   |   ENL   | Trichy          |
+| Shiivaram        |   ENL   | Salem           |
+| TheCbeSaiyajin   |   ENL   | Coimbatore      |
