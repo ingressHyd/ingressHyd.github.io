@@ -27,3 +27,4 @@
 | DarkKnight2016   |   ENL   | Trichy          |
 | Shiivaram        |   ENL   | Salem           |
 | TheCbeSaiyajin   |   ENL   | Coimbatore      |
+| Shriks           |   RES   | Hyderabad       | Aurangabad      |
